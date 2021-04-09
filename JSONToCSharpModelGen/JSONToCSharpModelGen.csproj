@@ -10,6 +10,8 @@
     <Company>Sparkle</Company>
     <Description>Tool to generate c# model from json</Description>
     <NeutralLanguage>ru-UA</NeutralLanguage>
+    <AssemblyVersion>1.0.0.4</AssemblyVersion>
+    <FileVersion>1.0.0.4</FileVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
